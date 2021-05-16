@@ -5,5 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ksi0Na=anuraghazra&hide=stars,commits,prs,issues,contribs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ksi0Na=anuraghazra&show_icons=true&theme=radical)
 
 
